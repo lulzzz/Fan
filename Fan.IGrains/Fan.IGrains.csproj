@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Orleans.OrleansCodeGenerator.Build" Version="2.0.0" />
+    <PackageReference Include="protobuf-net" Version="2.3.7" />
+    <PackageReference Include="Ray.Core" Version="1.1.5" />
+  </ItemGroup>
+
+</Project>

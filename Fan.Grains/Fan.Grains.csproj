@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Orleans.OrleansCodeGenerator.Build" Version="2.0.0" />
+    <PackageReference Include="Ray.MongoDB" Version="1.1.5" />
+    <PackageReference Include="Ray.RabbitMQ" Version="1.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fan.IGrains\Fan.IGrains.csproj" />
+  </ItemGroup>
+
+</Project>

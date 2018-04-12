@@ -1,0 +1,5 @@
+C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.IGrains\bin\Debug\netstandard2.0\Fan.IGrains.deps.json
+C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.IGrains\bin\Debug\netstandard2.0\Fan.IGrains.dll
+C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.IGrains\bin\Debug\netstandard2.0\Fan.IGrains.pdb
+C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.IGrains\obj\Debug\netstandard2.0\codegen\Fan.IGrains.csproj.CoreCompileInputs.cache
+C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.IGrains\obj\Debug\netstandard2.0\codegen\Fan.IGrains.AssemblyInfoInputs.cache
