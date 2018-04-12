@@ -1,7 +1,0 @@
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\bin\Debug\netstandard2.0\Fan.Grains.deps.json
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\bin\Debug\netstandard2.0\Fan.Grains.dll
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\bin\Debug\netstandard2.0\Fan.Grains.pdb
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\bin\Debug\netstandard2.0\Fan.IGrains.dll
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\bin\Debug\netstandard2.0\Fan.IGrains.pdb
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\obj\Debug\netstandard2.0\codegen\Fan.Grains.csproj.CoreCompileInputs.cache
-C:\Users\Jz.Fan\Source\Repos\Fan\Fan\Fan.Grains\obj\Debug\netstandard2.0\codegen\Fan.Grains.AssemblyInfoInputs.cache

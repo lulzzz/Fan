@@ -1,3 +1,11 @@
 /Fan.Client/obj
 /Fan.Client/bin
 /.vs
+/Fan.IGrains/obj
+/Fan.IGrains/bin
+/Fan.Host/obj
+/Fan.Host/bin
+/Fan.Handlers/obj
+/Fan.Handlers/bin
+/Fan.Grains/bin
+/Fan.Grains/obj
